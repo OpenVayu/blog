@@ -1,8 +1,8 @@
 # Site settings
 title: OpenVayu
 description: A startup that is consistently working towards improving the air quality around the world
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: "blog.openvayu.org" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: OpenVayu
